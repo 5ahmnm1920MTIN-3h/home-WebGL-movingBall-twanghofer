@@ -17,11 +17,6 @@ When pressing the button "Move Ball" the ball moves randomly to a new position.
 ### Target platform: 
 WebGL incl. reference resolution 960x600 
 
-### Visuals: 
-<div>
-<img src = "./Screenshots/sketch-moving-ball.jpg" width = "500">
-</div>
-
 <a href="https://5ahmnm1920mtin-3h.github.io/home-WebGL-movingBall-twanghofer/">WebGL Build</a>
 
 ### Necessary setup/execution steps: 
