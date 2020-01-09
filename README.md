@@ -3,11 +3,11 @@
 ### Project description: 
 Introduction/Project summary 
 
-### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+### Development platform:
+Windows 10, Unity 2019.14.f1, Visual Studio Community 2017
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, reference resolution 960x600 
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -25,4 +25,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by twanghofer
