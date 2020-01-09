@@ -4,7 +4,7 @@
 Introduction/Project summary 
 
 ### Development platform:
-Windows 10, Unity 2019.14.f1, Visual Studio Community 2017
+Windows 10, Unity 2019.1.14f1, Visual Studio Community 2017
 
 ### Target platform: 
 WebGL, reference resolution 960x600 
